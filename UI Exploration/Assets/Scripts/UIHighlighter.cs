@@ -21,15 +21,14 @@ public class UIHighlighter : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
     public void OnPointerEnter(PointerEventData eventData)
     {
         _text.color = Color.yellow;
-        _text.fontSize = 100;
+        _text.fontSize = 42;
         Debug.Log("Mouse on.");
     }
 
     public void OnPointerExit(PointerEventData eventData)
     {
         _text.color = Color.white;
-        _text.fontSize = 72;
+        _text.fontSize = 32;
         Debug.Log("Mouse off.");
     }
-
 }
