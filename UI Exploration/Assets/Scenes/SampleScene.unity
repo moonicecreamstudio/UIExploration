@@ -497,7 +497,6 @@ GameObject:
   - component: {fileID: 247780293}
   - component: {fileID: 247780296}
   - component: {fileID: 247780295}
-  - component: {fileID: 247780294}
   m_Layer: 5
   m_Name: Stats Menu
   m_TagString: Untagged
@@ -524,20 +523,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &247780294
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 247780292}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6d0a2095d819d0b4e9169741dbb50d40, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _text: {fileID: 0}
-  _highlightedColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!114 &247780295
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -646,7 +631,6 @@ GameObject:
   - component: {fileID: 294069973}
   - component: {fileID: 294069976}
   - component: {fileID: 294069975}
-  - component: {fileID: 294069974}
   m_Layer: 5
   m_Name: System Menu
   m_TagString: Untagged
@@ -673,20 +657,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &294069974
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 294069972}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6d0a2095d819d0b4e9169741dbb50d40, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _text: {fileID: 0}
-  _highlightedColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!114 &294069975
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2935,7 +2905,6 @@ GameObject:
   - component: {fileID: 1145288653}
   - component: {fileID: 1145288656}
   - component: {fileID: 1145288655}
-  - component: {fileID: 1145288654}
   m_Layer: 5
   m_Name: Skills Menu
   m_TagString: Untagged
@@ -2962,20 +2931,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1145288654
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1145288652}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6d0a2095d819d0b4e9169741dbb50d40, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _text: {fileID: 0}
-  _highlightedColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!114 &1145288655
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3084,7 +3039,6 @@ GameObject:
   - component: {fileID: 1164093891}
   - component: {fileID: 1164093894}
   - component: {fileID: 1164093893}
-  - component: {fileID: 1164093892}
   m_Layer: 5
   m_Name: Inventory Menu
   m_TagString: Untagged
@@ -3111,20 +3065,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1164093892
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1164093890}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6d0a2095d819d0b4e9169741dbb50d40, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _text: {fileID: 0}
-  _highlightedColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!114 &1164093893
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4968,7 +4908,6 @@ GameObject:
   - component: {fileID: 1772010630}
   - component: {fileID: 1772010633}
   - component: {fileID: 1772010632}
-  - component: {fileID: 1772010631}
   m_Layer: 5
   m_Name: Team Menu
   m_TagString: Untagged
@@ -4995,20 +4934,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1772010631
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1772010629}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6d0a2095d819d0b4e9169741dbb50d40, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _text: {fileID: 0}
-  _highlightedColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!114 &1772010632
 MonoBehaviour:
   m_ObjectHideFlags: 0
